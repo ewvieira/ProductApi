@@ -1,8 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ProductApi.Data;
 using ProductApi.Models;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace ProductApi.Services
 {
