@@ -1,6 +1,7 @@
 # API de Produtos
 
 Esta é uma API RESTful desenvolvida com .NET 8 para gerenciamento de produtos. Utiliza o Entity Framework Core com banco de dados em memória.
+Esta api foi criada como teste técnico para uma vaga de emprego.
 
 ## Funcionalidades
 - Listar todos os produtos
