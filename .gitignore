@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+.vscode/
+# Visual Studio Code
+.vscode/
+# Build results
+[Dd]ebug/
+[Rr]elease/
+# NuGet Packages
+*.nupkg
+# Others
+*.log
+*.DS_Store
